@@ -1,0 +1,17 @@
+#logo a{
+    background-size: 100px;
+    background-position: center center;
+}
+
+.wufoo .info h2 {
+    text-align: center;
+}
+
+.wufoo input.btTxt{
+    background: #95c350;
+    border: none;
+    padding: 1rem 3rem .9rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: "proxima-nova";
+}
