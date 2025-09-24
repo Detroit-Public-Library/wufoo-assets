@@ -1,3 +1,3 @@
 # Wufoo Assets
 
-Hosting for simple Wufoo form theme images and styling.
+Public hosting for simple Wufoo form theme images and styling.
